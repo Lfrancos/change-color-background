@@ -1,6 +1,6 @@
 # Background Color change.
 > This is a project that I replicated from a tutorial I found on Youtube [_here_](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=1181s).
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [_here_](https://lfrancos.github.io/change-color-background/). 
 
 ## Table of Contents
 * [General Info](#general-information)
