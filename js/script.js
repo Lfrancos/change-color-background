@@ -6,7 +6,11 @@ const btn = document.querySelector(".btn");
 const container = document.querySelector(".container")
 const body = document.querySelector("body");
 let text = document.querySelector(".colorText");
+// const simpleBtn = document.getElementsByTagName('li');
+// const hexBtn = document.getElementsByTagName(".li.sibling")
 
+
+// simpleBtn.style.backgroundColor = 'green';
 //create a random number from the array of colors that we have at the begining.
 let randomNumber = () => {
     return Math.floor(Math.random() * colors.length);
